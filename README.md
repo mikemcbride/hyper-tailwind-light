@@ -2,7 +2,7 @@
 
 Light [Hyper](https://hyper.is) theme based on the Tailwind color palette.
 
-![](https://cdn.jsdelivr.net/gh/mikemcbride/hyper-tailwind-light@c20eccab9dfc552af38d956be2b863adba0882be/screenshot.png)
+![](https://cdn.jsdelivr.net/gh/mikemcbride/hyper-tailwind-light@1c0d7e64972a1c57fdfab371f4ad76a2a9f7aa04/screenshot.png)
 
 ### Install
 
